@@ -51,3 +51,6 @@ Open an [issue](https://github.com/heliospool/heliosminer-cg/issues) with:
 
 - the output of `heliosminer-cg --version`
 - the log file
+
+<img width="3739" height="1917" alt="image" src="https://github.com/user-attachments/assets/8940916a-50b2-48fa-9c70-5b581d495380" />
+
